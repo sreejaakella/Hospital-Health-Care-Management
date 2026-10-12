@@ -73,7 +73,8 @@ The patient table is connected to the Department, Staff, and Bed tables through 
 
 <img width="579" height="334" alt="image" src="https://github.com/user-attachments/assets/02df6d4f-dbfc-4471-a732-caa0f50a993f" />
 
-<img width="586" height="338" alt="image" src="https://github.com/user-attachments/assets/41772512-cb00-472d-9668-825662e84a40" />
+<img width="586" height="332" alt="image" src="https://github.com/user-attachments/assets/183bba2a-4258-461e-91e4-1c2ccc467244" />
+
 
 <img width="597" height="338" alt="image" src="https://github.com/user-attachments/assets/aa8d4f01-89b6-413c-8c59-3fdf10c69df7" />
 <img width="587" height="339" alt="image" src="https://github.com/user-attachments/assets/548fdfc7-5659-4601-a3ce-65baf02be9ad" />
