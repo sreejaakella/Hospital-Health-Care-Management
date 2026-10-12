@@ -72,7 +72,8 @@ The patient table is connected to the Department, Staff, and Bed tables through 
 **Sreeja Akella**
 
 <img width="583" height="331" alt="image" src="https://github.com/user-attachments/assets/9cd5c1d1-6fff-4381-a1fd-86ab28ad661d" />
-<img width="588" height="329" alt="image" src="https://github.com/user-attachments/assets/e12f4e89-cf8d-49bf-8393-5d8a02556f2b" />
+<img width="586" height="338" alt="image" src="https://github.com/user-attachments/assets/41772512-cb00-472d-9668-825662e84a40" />
+
 <img width="597" height="338" alt="image" src="https://github.com/user-attachments/assets/aa8d4f01-89b6-413c-8c59-3fdf10c69df7" />
 <img width="587" height="339" alt="image" src="https://github.com/user-attachments/assets/548fdfc7-5659-4601-a3ce-65baf02be9ad" />
 <img width="589" height="331" alt="image" src="https://github.com/user-attachments/assets/55fb0d18-df1a-47d8-a96b-22d5e82f2414" />
